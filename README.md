@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dayveg/Dayveg/assets/90574438/0220ab26-6df0-42cd-a4f8-650200d34840" width="700" height="300
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dayveg/Dayveg/assets/90574438/0220ab26-6df0-42cd-a4f8-650200d34840" width="900" height="400
  >
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dayveg/Dayveg/assets/90574438/485a5c48-4fcb-4dba-91c2-c6a73e511891">
  <img alt=" La explosion de los datos" src="https://github.com/Dayveg/Dayveg/assets/90574438/f7fc5142-7715-44b4-bc6a-506713180743">
