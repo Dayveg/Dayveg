@@ -50,7 +50,6 @@
 
 ## Contacto
 - **LinkedIn:** [Dayana Vega](https://www.linkedin.com/in/dayveg/)
-- **GitHub:** [Dayveg](https://github.com/Dayveg)
 - **Microsoft:** [Perfil Microsoft](https://learn.microsoft.com/es-es/users/dayanavm/transcript/vy8nlto4r3yp533)
 - **Google:** [Perfil Google](https://www.cloudskillsboost.google/public_profiles/63f35b20-b102-4956-b989-425963eb06a6?locale=en)
 - **Credly:** [Perfil Credly](https://www.credly.com/users/dayveg/badges)
