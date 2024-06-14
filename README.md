@@ -51,7 +51,7 @@
 ## Contacto
 - **LinkedIn:** [Dayana Vega](https://www.linkedin.com/in/dayveg/)
 - **Microsoft:** [Perfil Microsoft](https://learn.microsoft.com/es-es/users/dayanavm/transcript/vy8nlto4r3yp533)
-- **Google:** [Perfil Google](https://www.cloudskillsboost.google/public_profiles/63f35b20-b102-4956-b989-425963eb06a6?locale=en)
+- **Google:** [Perfil Google](https://www.cloudskillsboost.google/public_profiles/63f35b20-b102-4956-b989-425963eb06a6?locale=en](https://learn.microsoft.com/es-es/users/dayveg/))
 - **Credly:** [Perfil Credly](https://www.credly.com/users/dayveg/badges)
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres conectar, no dudes en contactarme. Estoy aquí para explorar y compartir conocimientos en el emocionante mundo de los datos y la IA. 😊
