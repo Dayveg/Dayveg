@@ -8,7 +8,7 @@
 # Bienvenidos a mi perfil 👋
 
 ## Sobre mí
-¡Hola! Soy Dayana Vega, una apasionada ingeniera de sistemas e industrial  y entusiasta  de datos  y  la inteligencia artificial. Mi objetivo es explorar y aprender continuamente en estos campos emocionantes. Me encanta resolver problemas complejos y descubrir nuevas formas de aprovechar el poder de los datos y la IA.
+¡Hola! Soy Dayana Vega, una apasionada ingeniera de sistemas e industrial  y entusiasta  de datos,  la inteligencia artificial. Mi objetivo es explorar y aprender continuamente en estos campos emocionantes. Me encanta resolver problemas complejos y descubrir nuevas formas de aprovechar el poder de los datos y la IA.
 
 ## Habilidades
 ### Lenguajes de Programación
