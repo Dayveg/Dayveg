@@ -5,7 +5,7 @@
  <img alt=" La explosion de los datos" src="https://github.com/Dayveg/Dayveg/assets/90574438/f7fc5142-7715-44b4-bc6a-506713180743">
 </picture>
 
-# Bienvenidos a mi perfil 👋
+# Bienvenidos a mi perfil 
 
 ## Sobre mí
 ¡Hola! Soy Dayana Vega, una apasionada ingeniera de sistemas e industrial  y entusiasta  de datos,  la inteligencia artificial. Mi objetivo es explorar y aprender continuamente en estos campos emocionantes. Me encanta resolver problemas complejos y descubrir nuevas formas de aprovechar el poder de los datos y la IA.
